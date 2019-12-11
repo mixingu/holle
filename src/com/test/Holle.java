@@ -9,9 +9,9 @@ public class Holle {
 		System.out.println("holle");
 		
 		String test = method1();
-		
+		System.out.println(123456);
 		System.out.println(test);
-		
+		System.out.println(test);
 	}
 	
 	public static String method1() {
